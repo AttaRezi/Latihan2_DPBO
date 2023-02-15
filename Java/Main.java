@@ -77,6 +77,7 @@ public class Main{
 					nim = sc.next();
 
 					sc.nextLine();
+
 					System.out.println("Masukkan Nama Mahasiswa : ");
 					nama = sc.nextLine();
 
@@ -145,7 +146,7 @@ public class Main{
 
 
 			//proses exit
-			case 5 :
+			case 3 :
 				System.out.println("\n");
 	            System.out.println("   THANK YOU!");
 	            System.out.println("\n");
