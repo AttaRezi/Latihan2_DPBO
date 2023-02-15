@@ -76,8 +76,9 @@ public class Main{
 					System.out.println("Masukkan Nim Mahasiswa : ");
 					nim = sc.next();
 
+					sc.nextLine();
 					System.out.println("Masukkan Nama Mahasiswa : ");
-					nama = sc.next();
+					nama = sc.nextLine();
 
 					System.out.println("Masukkan Jenis Kelamin Mahasiswa : ");
 					kelamin = sc.next();
