@@ -15,8 +15,9 @@ Latihan2_DPBO
 
   Algoritma :
  1. main menu -> Pada main menu, user akan diminta untuk memasukkan integer dari 1-3 untuk memilih menu
- 2. menu "1" -> pada menu ini user akan diminta memasukkan nik, nim, nama, kelamin, prodi, fakultas, asal universitas, dan email univ asal mahasiswa secara bergantian. 
-          note : Testcase menu "1" : 
+ 2. menu "1" -> pada menu ini user akan diminta memasukkan nik, nim, nama, kelamin, prodi, fakultas, asal universitas, dan email univ asal mahasiswa secara bergantian.
+  
+    note : Testcase menu "1" : 
                 - "1092837" "2006" "Atta Arrezie Kurnia" "Laki" "Ilkom" "FPMIPA" "UPI" "Atta@upi.edu"
                 - "2093844" "2009" "Bima Putra Setiabudi" "Laki" "Teknik Komputer" "FPTK" "Telkom" "Bima@telkom.edu"
                 - "2020002" "2002" "Tazkia Hana Azzahra" "Perempuan" "Seni Murni" "FPSD" "Telkom" "Hana@telkom.edu"
