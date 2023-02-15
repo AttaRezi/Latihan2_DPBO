@@ -23,14 +23,14 @@ Latihan2_DPBO
     - "2020002" "2002" "Tazkia Hana Azzahra" "Perempuan" "Seni Murni" "FPSD" "Telkom" "Hana@telkom.edu"
 
     note : Template inputan tiap tiap variabel adalah sebagai berikut
-           1. nik -> input 7 angka
-           2. nim -> input 4 angka
-           3. nama -> input nama lengkap 
-           4. kelamin -> input jenis kelamin
-           5. prodi -> input prodi yang diambil mahasiswa
-           6. fakultas -> input fakultas asal dari prodi yang diambil mahasiswa
-           7. Asal universitas -> input asal universitas dari mahasiswa
-           8. Email -> input email khusus universitas masing masing mahasiswa
+    1. nik -> input 7 angka
+    2. nim -> input 4 angka
+    3. nama -> input nama lengkap
+    4. kelamin -> input jenis kelamin
+    5. prodi -> input prodi yang diambil mahasiswa
+    6. fakultas -> input fakultas asal dari prodi yang diambil mahasiswa
+    7. Asal universitas -> input asal universitas dari mahasiswa
+    8. Email -> input email khusus universitas masing masing mahasiswa
 
     Setelah user memasukkan data tersebut, program akan menanyakan apakah akan melanjutkan menginput data mahasiswa yang lain atau tidak
     tekan Y/y untuk melanjutkan,
