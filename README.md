@@ -10,7 +10,7 @@ Latihan2_DPBO
   
   File Tugas dibagi menjadi 4 file tugas berdasarkan tiap bahasa, dan 1 file screenshot
   
-  1. c++/java -> program akan menampilkan main menu seperti pada gambar "cpp_main" pada file screenshot, user bisa memberikan inputan integer dari 1-2 untuk memilih menu untuk menambahkan data mahasiswa, dan melihat list tabel mahasiswa, serta menu int 3 untuk exit program. (java akan memiliki tampilan main menu yg kurang rapih dibanding c++).
+  1. c++/java/python -> program akan menampilkan main menu seperti pada gambar "cpp_main" pada file screenshot, user bisa memberikan inputan integer dari 1-2 untuk memilih menu untuk menambahkan data mahasiswa, dan melihat list tabel mahasiswa, serta menu int 3 untuk exit program. (java akan memiliki tampilan main menu yg kurang rapih dibanding c++).
 
 
   Algoritma :
