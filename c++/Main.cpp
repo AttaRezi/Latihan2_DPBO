@@ -1,17 +1,11 @@
-#include <iostream>
-#include <string>
 #include <bits/stdc++.h>
-#include <cstdio>
-#include <cstring>
-#include <cstdlib>
-#include <conio.h>
-#include <iomanip>
 
-using namespace std;
 #include "Sivitas.cpp"
 
-int main(int argc, char const *argv[])
-{
+using namespace std;
+
+
+int main(int argc, char const *argv[]){
 	//attribute mahasiswa
 	string nim;
 	string prodi;
@@ -73,7 +67,9 @@ int main(int argc, char const *argv[])
 				cin >> nim;
 
 				cout << "Masukkan Nama Mahasiswa : ";
-				cin >> namaLine;
+				cin >> nama;
+
+
 
 				cout << "Masukkan Jenis Kelamin Mahasiswa : ";
 				cin >> kelamin;
