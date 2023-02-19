@@ -25,7 +25,7 @@ Latihan2_DPBO
     note : Template inputan tiap tiap variabel adalah sebagai berikut
     1. nik -> input 7 angka
     2. nim -> input 4 angka
-    3. nama -> input nama lengkap
+    3. nama -> input nama lengkap (untuk c++, ketika input nama lengkap ubah spai menjadi underscore(_), contoh : Atta_Arrezie_Kurnia)
     4. kelamin -> input jenis kelamin
     5. prodi -> input prodi yang diambil mahasiswa
     6. fakultas -> input fakultas asal dari prodi yang diambil mahasiswa
